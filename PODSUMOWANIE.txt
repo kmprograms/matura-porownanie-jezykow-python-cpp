@@ -1,0 +1,19 @@
+|-------------------------------------|------------------------------------|
+| Python                              | C++                                |
+| ------------------------------------|------------------------------------|
+| - Zaczynasz programować od zera lub | - Piszesz w C++ od dawna, często   |
+|   do matury zostało mniej niż       |   ten wybór narzuca szkoła         |
+|   12-10 miesięcy                    |                                    |                                
+|-------------------------------------|------------------------------------| 
+| - Tracisz czas na "techniczne"      | - Planujesz studia na kierunkach,  |
+|   szczegóły zamiast skupiania się   |   gdzie wdrażasz rozwiązania       |
+|   na algorytmie                     |   oparte na C++                    |
+|-------------------------------------|------------------------------------|
+| - Zależy Ci na szybkim tworzeniu    | - Lubisz obowiązkową kontrolę      |
+|   krótkiego kodu                    |   typów, poznawanie szczegółów     |
+|                                     |   składni i więcej kodu od języka  | 
+|-------------------------------------|------------------------------------|
+
+Kiedy jesteś około 12-10 miesięcy przed maturą, możesz swobodnie zmieniać
+język programowania. Później pozostań przy języku programowania, którego
+używałeś do tej pory.
